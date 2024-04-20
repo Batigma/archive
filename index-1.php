@@ -225,7 +225,7 @@
                                 <li class="dropdown-submenu">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio - Boxed Grid</a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="portfolio-boxed-grid-4col.html">Boxed Grid - 4 Columns</a></li>
+                                        <li><a href="portfolio-boxed-grid-4col.html">Boxejkd Grid - 4 Columns</a></li>
                                         <li><a href="portfolio-boxed-grid-3col.html">Boxed Grid - 3 Columns</a></li>
                                         <li><a href="portfolio-boxed-grid-2col.html">Boxed Grid - 2 Columns</a></li>
                                     </ul>
